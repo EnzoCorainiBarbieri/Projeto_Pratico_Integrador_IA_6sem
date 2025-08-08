@@ -1,2 +1,2 @@
-# PPI---IA---6SEM
+# Projeto_Pratico_Integrador_IA_6sem
 sla mano se vira pra entender...
