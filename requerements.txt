@@ -1,0 +1,5 @@
+opencv-python
+deepface
+tensorflow
+numpy
+mediapipe>=0.10.0
